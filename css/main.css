@@ -1227,6 +1227,7 @@ img {
 }
 
 .portfolio-border {
+  flex-grow: 1;
   border: 1px solid #eeeeee;
   border-top: transparent;
   padding: 20px 24px;
