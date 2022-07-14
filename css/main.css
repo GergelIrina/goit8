@@ -1224,6 +1224,13 @@ img {
   flex-grow: 1;
 }
 
+.portfolio-border:first-child {
+  border: transparent;
+  border-top: transparent;
+  padding: 20px 24px;
+  flex-grow: 1;
+}
+
 .portfolio-list-title {
   font-weight: 700;
   font-size: 18px;
